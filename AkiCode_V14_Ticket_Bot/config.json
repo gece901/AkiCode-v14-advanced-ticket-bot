@@ -1,8 +1,8 @@
 {
-    "token": "YOUR_BOT_TOKEN",
-    "clientId": "YOUR_CLIENT_ID",
-    "guildId": "YOUR_GUILD_ID",
-    "yetkiliRolId": "YETKILI_ROL_ID",
-    "ticketCategory": "TICKET_CATEGORY_ID",
-    "logChannel": "LOG_CHANNEL_ID"
+    "token": "MTI5MTg3NTMyOTc3MzY2NjMwNA.Gy-4ym.Sdy-T_XIIc0_6KH4lK5D6dz92TF9wVqWH31Fk4",
+    "clientId": "1195788290977177650",
+    "guildId": "1291870937767088342",
+    "yetkiliRolId": "1291899465539784754",
+    "ticketCategory": "1291899620401614878",
+    "logChannel": "1291899647174115451"
 }
