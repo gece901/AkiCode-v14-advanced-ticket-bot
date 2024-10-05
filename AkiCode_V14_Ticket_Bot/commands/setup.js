@@ -26,7 +26,10 @@ module.exports = {
                             label: 'Destek',
                             description: 'Teknik destek için',
                             value: 'support',
-                        },
+                        },  
+                             label: ´kod destek´,
+                             desciription: ´test´,
+                             value: ´kod´,
                         {
                             label: 'Diğer',
                             description: 'Diğer konular için',
